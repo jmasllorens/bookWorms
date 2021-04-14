@@ -5,10 +5,9 @@ La tematica es libre. Buscar referencia en la web.
 
 ## Comenzando 🚀
 
-Donde encontrar el git Page.
-https://andresestebanpatino.github.io/bookWorms/
+Donde encontrar el git Page. https://andresestebanpatino.github.io/bookWorms/
 
-Mira **Deployment** para conocer como desplegar el proyecto.
+https://andresestebanpatino.github.io/bookWorms/
 
 
 ### Pre-requisitos 📋
