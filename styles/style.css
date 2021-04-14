@@ -9,8 +9,10 @@ body{
 
 
 .header {
+    
     height: 60px;
     display: flex;
+    background-color: #CBEAED;
 
     
 }
@@ -181,7 +183,7 @@ body{
 
 .hr-citaCorazon {
     width: 93%;
-    border: 1px solid #FFAEC9;
+    border: 1px solid #FFAEC9;}
 
 .libro {
     display: flex;
