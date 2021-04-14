@@ -93,3 +93,15 @@ body{
 }
 
 
+.libro {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.portada-libro {
+    width: 70%;
+    border-radius: 13px;
+}
