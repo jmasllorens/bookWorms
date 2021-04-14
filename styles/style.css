@@ -30,7 +30,7 @@ body{
 
 .separador-footer {
     width: 90%;
-    height: 0.5vh;
+    height: 1px;
     background-color: #00AEC9;
     margin-bottom: 10px;
     margin-right: auto;
