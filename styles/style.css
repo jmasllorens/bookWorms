@@ -6,6 +6,61 @@ body{
 }
 
 
+
+.header {
+    height: 60px;
+    display: flex;
+
+    
+}
+
+.logotipo {
+    width: 45px;
+    height: 45px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+   
+
+}
+
+.razon-social {
+    font-family: "abel";
+    font-size: 32px;
+}
+
+.carrito {
+    width: 35px;
+    height: 35px;
+   
+}
+
+.header-logo {
+    width: 85%;
+    height: 60px;
+    display: flex;
+    align-items: center;
+
+}
+
+.header-carrito {
+    width: 15%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hr-header {
+    width: 95%;
+    border: 1px solid #00AEC9;
+}
+
+.vl-header {
+    height: 60px;
+    border: 1px solid #00AEC9;
+
+}
+
 .icono-footer {
     width : 42px ;
 
@@ -36,4 +91,5 @@ body{
     margin-right: auto;
     margin-left: auto;
 }
+
 
