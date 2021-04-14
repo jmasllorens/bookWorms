@@ -135,11 +135,12 @@ body{
 }
 
 .main-presentacion{
+    
     display: flex;
     align-items: start;
-    margin-top: 50px;
+    margin-top: 100px;
     height: 480px;
-    /*background-color: brown;*/
+    
 }
 
 .cita-imagen{
