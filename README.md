@@ -5,7 +5,8 @@ La tematica es libre. Buscar referencia en la web.
 
 ## Comenzando 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+Donde encontrar el git Page.
+https://andresestebanpatino.github.io/bookWorms/
 
 Mira **Deployment** para conocer como desplegar el proyecto.
 
