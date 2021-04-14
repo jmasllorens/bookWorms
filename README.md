@@ -4,11 +4,14 @@ Debemos diseñar y maquetar una tienda online.
 
 La tematica es libre. Buscar referencia en la web.
 
+
+
 ## Comenzando 🚀
 
 Donde encontrar el git Page. 
 
 https://andresestebanpatino.github.io/bookWorms/
+
 
 
 ### Pre-requisitos 📋
@@ -18,6 +21,8 @@ _Que cosas necesitas para instalar el software y como instalarlas_
 ```
 Da un ejemplo
 ```
+
+
 
 ### Instalación 🔧
 
@@ -37,9 +42,13 @@ hasta finalizar
 
 _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
+
+
 ## Ejecutando las pruebas ⚙️
 
 _Explica como ejecutar las pruebas automatizadas para este sistema_
+
+
 
 ### Analice las pruebas end-to-end 🔩
 
@@ -49,6 +58,7 @@ _Explica que verifican estas pruebas y por qué_
 Da un ejemplo
 ```
 
+
 ### Y las pruebas de estilo de codificación ⌨️
 
 _Explica que verifican estas pruebas y por qué_
@@ -56,6 +66,7 @@ _Explica que verifican estas pruebas y por qué_
 ```
 Da un ejemplo
 ```
+
 
 ## Construido con 🛠️
 
@@ -66,10 +77,6 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 * Figma
 * GoogleDocs
 
-
-## Versionado 📌
-
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
 
 ## Autores ✒️
 
