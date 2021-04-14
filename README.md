@@ -81,5 +81,5 @@ _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 * **Amr**
 * **Jose Miguel**
 
-También pueden mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
+También pueden mirar la lista de todos los [contribuyentes](https://github.com/AndresEstebanPatino/bookWorms/contributors) quíenes han participado en este proyecto. 
 
