@@ -18,8 +18,8 @@
 
     </header>
 
-    <main>
-        <section class="main-principal">
+    <main  class="main-principal" style="display: block;">
+        <section>
             <section class="main-presentacion">
                 <article class="slogan">
 <h1>Hola, guap@s.</h1>
@@ -39,10 +39,10 @@
     </main>
 
 
-    <main>
-        <section class="main-catalogo">
+    <main class="main-catalogo" style="display: none;">
+        <section >
             <section class="libro">
-
+                <h1>adios mundo cruel</h1>
             </section>
             <section class="libro">
 
@@ -61,8 +61,8 @@
     </main>
 
 
-    <main>
-        <section class="main-descripcion-libro">
+    <main class="main-descripcion-libro">
+        <section >
             <section class="libro">
 
             </section>
@@ -75,12 +75,12 @@
     
         </section>
         <section class="seccion-footer">
-        <img class="icono-footer" src="img/iconos/casita.png">
-        <img class="icono-footer" src="img/iconos/libros.png">
+        <img class="icono-footer" src="img/iconos/casita.png" onclick="cambiarPantallaPrincipal()">
+        <img class="icono-footer" src="img/iconos/libros.png" onclick="cambiarPantallaCatalogo()">
         </section>
     </footer>
 
-    <script src="./js/script.js"></script>
+    <script src="js/script.js"></script>
 </body>
 
 </html>
