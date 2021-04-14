@@ -6,6 +6,7 @@ body{
 }
 
 
+
 .header {
     height: 60px;
     display: flex;
@@ -59,3 +60,36 @@ body{
     border: 1px solid #00AEC9;
 
 }
+
+.icono-footer {
+    width : 42px ;
+
+
+}
+
+.footer {
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+}
+
+.seccion-footer {
+    width: auto;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 10px;
+    
+}
+
+.separador-footer {
+    width: 90%;
+    height: 1px;
+    background-color: #00AEC9;
+    margin-bottom: 10px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+

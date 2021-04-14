@@ -11,6 +11,7 @@
 </head>
 
 <body>
+
     <header >
         <section class="header">
             <section class="header-logo">
@@ -21,14 +22,20 @@
             <section class="header-carrito">
                 <img class="carrito" src="img/iconos/carritoCompra.png" alt="carrito compra">
             </section>
+
+    <header>
+        <section class="header-logo"></section>
+
         </section>
         <hr class="hr-header">
     </header>
 
-    <main>
-        <section class="main-principal">
+    <main  class="main-principal" style="display: block;">
+        <section>
             <section class="main-presentacion">
                 <article class="slogan">
+
+<h1>Hola, guap@s.</h1>
 
                 </article>
 
@@ -46,10 +53,10 @@
     </main>
 
 
-    <main>
-        <section class="main-catalogo">
+    <main class="main-catalogo" style="display: none;">
+        <section >
             <section class="libro">
-
+                <h1>adios mundo cruel</h1>
             </section>
             <section class="libro">
 
@@ -68,8 +75,8 @@
     </main>
 
 
-    <main>
-        <section class="main-descripcion-libro">
+    <main class="main-descripcion-libro">
+        <section >
             <section class="libro">
 
             </section>
@@ -77,11 +84,15 @@
 
     </main>
 
-    <footer>
-        <section class="footer"></section>
+    <footer class="footer">
+        <hr class="separador-footer">
+        <section class="seccion-footer">
+        <img class="icono-footer" src="img/iconos/casita.png" onclick="cambiarPantallaPrincipal()">
+        <img class="icono-footer" src="img/iconos/libros.png" onclick="cambiarPantallaCatalogo()">
+        </section>
     </footer>
 
-    <script src="./js/script.js"></script>
+    <script src="js/script.js"></script>
 </body>
 
 </html>
