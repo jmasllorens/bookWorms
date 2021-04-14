@@ -1,3 +1,95 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Abel&display=swap');
 
+body{
+    background-color: #CBEAED;
+}
+
+
+
+.header {
+    height: 60px;
+    display: flex;
+
+    
+}
+
+.logotipo {
+    width: 45px;
+    height: 45px;
+    margin-left: 10px;
+    margin-right: 10px;
+    
+   
+
+}
+
+.razon-social {
+    font-family: "abel";
+    font-size: 32px;
+}
+
+.carrito {
+    width: 35px;
+    height: 35px;
+   
+}
+
+.header-logo {
+    width: 85%;
+    height: 60px;
+    display: flex;
+    align-items: center;
+
+}
+
+.header-carrito {
+    width: 15%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.hr-header {
+    width: 95%;
+    border: 1px solid #00AEC9;
+}
+
+.vl-header {
+    height: 60px;
+    border: 1px solid #00AEC9;
+
+}
+
+.icono-footer {
+    width : 42px ;
+
+
+}
+
+.footer {
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+}
+
+.seccion-footer {
+    width: auto;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 10px;
+    
+}
+
+.separador-footer {
+    width: 90%;
+    height: 1px;
+    background-color: #00AEC9;
+    margin-bottom: 10px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+
