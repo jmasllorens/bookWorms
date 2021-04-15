@@ -12,76 +12,41 @@ Donde encontrar el git Page.
 
 https://andresestebanpatino.github.io/bookWorms/
 
+Sketch de como pensabamos que deberia ser las pantallas y sus funcionalidades.
 
-
-### Pre-requisitos 📋
-
-_Que cosas necesitas para instalar el software y como instalarlas_
-
-```
-Da un ejemplo
-```
+![Alt text](/img/README.md/lMockup_bookWorm.png?raw=true "Optional Title")
 
 
 
-### Instalación 🔧
-
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
-
-_Dí cómo será ese paso_
-
-```
-Da un ejemplo
-```
-
-_Y repite_
-
-```
-hasta finalizar
-```
-
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
-
-
-
-## Ejecutando las pruebas ⚙️
-
-_Explica como ejecutar las pruebas automatizadas para este sistema_
-![Alt text](/img/portadas/elFrancotirador.jpg?raw=true "Optional Title")
-
-
-
-### Analice las pruebas end-to-end 🔩
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-
-### Y las pruebas de estilo de codificación ⌨️
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-
-## Construido con 🛠️
-
-_Menciona las herramientas que utilizaste para crear tu proyecto_
+## Herramientas usadas en este proyecto 🛠️
 
 * Visula Code
 * Trello
 * Figma
 * GoogleDocs
+* Zoom
+
+
+
+## Capturas Pantallas formato Movil ⚙️
+
+![Alt text](/img/README.md/landingPage.JPG?raw=true "Optional Title")
+![Alt text](/img/README.md/catalogo.JPG?raw=true "Optional Title")
+![Alt text](/img/README.md/descripcionLibro.JPG?raw=true "Optional Title")
+
+
+
+## Herramientas usadas en este proyecto 🛠️
+
+* Visula Code
+* Trello
+* Figma
+* GoogleDocs
+* Zoom
+
 
 
 ## Autores ✒️
-
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
 * **Andrea**
 * **Jael**
