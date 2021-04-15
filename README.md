@@ -12,9 +12,12 @@ Donde encontrar el git Page.
 
 https://andresestebanpatino.github.io/bookWorms/
 
-Sketch de como pensabamos que deberia ser las pantallas y sus funcionalidades.
 
-![Alt text](/img/README.md/lMockup_bookWorm.png?raw=true "Optional Title")
+## Mockup de este proyecto 🛠️
+
+Mockup de como pensabamos que deberian ser las pantallas y sus funcionalidades.
+
+![Alt text](/img/README.md/Mockup_bookWorm.png?raw=true "Optional Title")
 
 
 
