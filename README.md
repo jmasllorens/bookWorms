@@ -47,7 +47,7 @@ _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para 
 ## Ejecutando las pruebas ⚙️
 
 _Explica como ejecutar las pruebas automatizadas para este sistema_
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](/img/portadas/elFrancotirador.jpg?raw=true "Optional Title")
 
 
 
