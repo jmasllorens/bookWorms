@@ -21,16 +21,6 @@ Mockup de como pensabamos que deberian ser las pantallas y sus funcionalidades.
 
 
 
-## Herramientas usadas en este proyecto 🛠️
-
-* Visula Code
-* Trello
-* Figma
-* GoogleDocs
-* Zoom
-
-
-
 ## Capturas Pantallas formato Movil ⚙️
 
 ![Alt text](/img/README.md/landingPage.JPG?raw=true "Optional Title")
