@@ -52,12 +52,12 @@
             <hr class="hr-redesSociales">
             <section class="main-contacto">
                 <section class="redesSociales">
-                    <img class="instagram" src="img/iconos/instagram.png" alt="Logo Instagram">
-                    <img class="facebook" src="img/iconos/facebook.png" alt="Logo Facebook">    
+                    <a href="https://www.instagram.com" target="_blank"><img class="instagram" src="img/iconos/instagram.png" alt="Logo Instagram"></a>
+                    <a href="https://www.facebook.com" target="_blank"><img class="facebook" src="img/iconos/facebook.png" alt="Logo Facebook"></a>
                 </section>
 
-                <section class="email"> 
-                    <p>bookworms@bookworms.com</p>
+                <section> 
+                    <a href="mailto:bookworms@bookworms.com"><p>bookworms@bookworms.com</p></a>
                 </section>
             </section>
         </section>
@@ -67,7 +67,7 @@
 
     <main class="main-catalogo" style="display: none;">
         <section>
-            <section class="libro">
+            <section class="libro" onclick="cambiarPantallaDescripcion()">
                 <img class="portada-libro" src="img/portadas/diarioDelFinDelMundo.jpg" alt="portada del libro diario del fin del mundo">
                 <h2 class="titulos-libros">Diario del fin del mundo</h2>
                 <p class="autores-libros">Mario Mendoza</p>
@@ -109,14 +109,20 @@
     </main>
 
 
-    <main class="main-descripcion-libro">
+    <main class="main-descripcion-libro" style="display: none;">
         <section >
             <section class="libro">
-
+                <img class="portada-libro" src="img/portadas/diarioDelFinDelMundo.jpg"  alt="portada del libro diario del fin del mundo">
+                <h2 class="titulos-libros" >Diario del fin del mundo</h2>
+                <p class="autores-libros">Mario Mendoza</p>
+                <p class="precios-libros">12.00 €</p>
+                <hr class="separador-libros">
             </section>
         </section>
 
     </main>
+
+    
 
     <footer class="footer">
         <hr class="separador-footer">
