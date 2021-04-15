@@ -46,8 +46,9 @@ _Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para 
 
 ## Ejecutando las pruebas ⚙️
 
-_Explica como ejecutar las pruebas automatizadas para este sistema_
-![Alt text](/img/portadas/elFrancotirador.jpg?raw=true "Optional Title")
+![Alt text](/img/README.md/landingPage.JPG?raw=true "Optional Title")
+![Alt text](/img/README.md/catalogo.JPG?raw=true "Optional Title")
+![Alt text](/img/README.md/descripcionLibro.JPG?raw=true "Optional Title")
 
 
 
