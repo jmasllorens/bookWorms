@@ -381,6 +381,7 @@ body{
 }
 
 .add-item {
+    font-family: 'Lato', sans-serif;
     background-color: #D3DE32;
     border: 0px;
     border-radius: 5px;
