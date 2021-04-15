@@ -12,13 +12,10 @@ Donde encontrar el git Page.
 
 https://andresestebanpatino.github.io/bookWorms/
 
+Sketch de como pensabamos que deberia ser las pantallas y sus funcionalidades.
 
+![Alt text](/img/README.md/lMockup_bookWorm.png?raw=true "Optional Title")
 
-## Capturas Pantallas formato Movil ⚙️
-
-![Alt text](/img/README.md/landingPage.JPG?raw=true "Optional Title")
-![Alt text](/img/README.md/catalogo.JPG?raw=true "Optional Title")
-![Alt text](/img/README.md/descripcionLibro.JPG?raw=true "Optional Title")
 
 
 ## Herramientas usadas en este proyecto 🛠️
@@ -28,6 +25,25 @@ https://andresestebanpatino.github.io/bookWorms/
 * Figma
 * GoogleDocs
 * Zoom
+
+
+
+## Capturas Pantallas formato Movil ⚙️
+
+![Alt text](/img/README.md/landingPage.JPG?raw=true "Optional Title")
+![Alt text](/img/README.md/catalogo.JPG?raw=true "Optional Title")
+![Alt text](/img/README.md/descripcionLibro.JPG?raw=true "Optional Title")
+
+
+
+## Herramientas usadas en este proyecto 🛠️
+
+* Visula Code
+* Trello
+* Figma
+* GoogleDocs
+* Zoom
+
 
 
 ## Autores ✒️
