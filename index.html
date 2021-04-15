@@ -110,16 +110,50 @@
 
 
     <main class="main-descripcion-libro" style="display: none;">
-        <section >
-            <section class="libro">
-                <img class="portada-libro" src="img/portadas/diarioDelFinDelMundo.jpg"  alt="portada del libro diario del fin del mundo">
-                <h2 class="titulos-libros" >Diario del fin del mundo</h2>
-                <p class="autores-libros">Mario Mendoza</p>
-                <p class="precios-libros">12.00 €</p>
-                <hr class="separador-libros">
+        <section class="specificaciones-libro">
+            <section class="foto-seccion">
+                <img class="foto-libro" src="img/portadas/diarioDelFinDelMundo.jpg" alt="Diario del fin del mundo">
+            </section>
+            <section class="datos-seccion">
+                <article class="datos-articulo">
+                    <h2>Diario del fin del mundo</h2>
+                    <h3>Mario Mendoza</h3>
+                    <article class="puntacion-precio">
+                        <img class="estrella" src="img/iconos/star.png" alt="icono de una estrella">
+                        <p class="puntacion">8</p>
+                        <p class="precio">18.99 €</p>
+                    </article>
+                    <button class="genero">Narrativa Histórica</button>
+                </article>
+                <article class="otros-datos">
+                    <ul class="otros-datos-list1">
+                        <li>Año</li>
+                        <li>Editorial</li>
+                        <li>Idioma</li>
+                        <li>Paginas</li>
+                        <li>País</li>
+                    </ul>
+                    <ul>
+                        <li>2018</li>
+                        <li>Editorial Planeta</li>
+                        <li>Español</li>
+                        <li>496</li>
+                        <li>Colombia</li>
+                    </ul>
+                </article>
             </section>
         </section>
-
+        <section class="resumen-libro">
+            <p>
+                El escritor Mario Mendoza recibe un mensaje de un viejo amigo de universidad: Daniel Klein. Entre ambos evocarán una juventud impetuosa en la cual compartieron el amor de una misma mujer:
+Carmen Andreu. La inusual vida de Carmen, su adicción a las drogas, su estadía en una secta religiosa, su nomadismo como fotógrafa de paisajes desérticos, sus secretos trabajos como modelo de películas porno, serán tanto para Daniel como para Mario muy difíciles de asimilar. En algún momento de la narración, Daniel le pide a Mario que lo ayude a ir tras las huellas de su padre, un alemán que ha vivido camuflado en Bogotá intentando no llamar la atención. Las investigaciones los conducirán a ambos a un pasado siniestro e infernal:
+torturas, genocidios, rituales religiosos de traslación de niveles de energía <span class="puntos" style="display: inline">...</span><span class="mas" style="display: none">, macabros experimentos en medio de la guerra.
+Finalmente, el detective Frank Molina, que viene de novelas como Lady Masacre y La melancolía de los feos, encontrará, después de seguirlo durante varios días por el centro de Bogotá, en un callejón escondido, a esta especie de vampiro perverso y criminal.
+Unas anotaciones apocalípticas en una libreta cierran esta novela que pretende descifrar nuestra época y anticipar el temible tiempo que se nos avecina.</span>
+            </p>
+            <p class="leer-mas" onclick="leerMas ()" style="display: block;">Leer mas</p>
+            <p class="leer-menos" onclick="leerMenos ()" style="display: none;">Leer menos</p>
+        </section>
     </main>
 
     
@@ -133,6 +167,7 @@
     </footer>
 
     <script src="js/script.js"></script>
+    <script src="js/leerMasMenos.js"></script>
 </body>
 
 </html>

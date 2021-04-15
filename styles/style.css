@@ -246,3 +246,95 @@ body{
     margin-top: 100px;
     
 }
+
+.main-descripcion-libro {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.specificaciones-libro {
+    display: flex;
+    
+}
+
+
+
+.foto-libro {
+    width: 90%;
+    border-radius: 10px;
+}
+
+.foto-seccion {
+    display: flex;
+    width: 50%;
+    justify-content: center;
+}
+
+.datos-seccion {
+    width: 50%;
+    
+}
+
+.estrella {
+    width: 10%;
+}
+
+.puntacion-precio {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.puntacion {
+    margin-right: 60px;
+}
+
+.precio {
+    margin-right: 25px;
+}
+
+.genero {
+    background-color: #006A71;
+    border: 0px;
+    border-radius: 5px;
+    width: 90%;
+    margin-left:auto;
+}
+
+.otros-datos {
+    display: flex;
+    justify-content: center;
+
+}
+
+.datos-articulo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.otros-datos-list1 {
+
+}
+
+/*============*/
+.mas {
+    display: none;
+}
+
+.puntos {
+    display: inline;
+}
+
+.leer-mas {
+    display: block;
+    font-weight: bold;
+    color: #006A71;
+}
+
+.leer-menos {
+    display: none;
+    font-weight: bold;
+    color: #006A71;
+}
