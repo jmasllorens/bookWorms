@@ -31,7 +31,7 @@ Mockup de como pensabamos que deberian ser las pantallas y sus funcionalidades.
 
 ## Herramientas usadas en este proyecto 🛠️
 
-* Visula Code
+* Visual Code
 * Trello
 * Figma
 * GoogleDocs
