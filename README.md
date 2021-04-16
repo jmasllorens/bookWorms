@@ -42,8 +42,8 @@ Mockup de como pensabamos que deberian ser las pantallas y sus funcionalidades.
 ## Autores ✒️
 
 * **Andrea**
-* **Jael**
-* **Andres**
+* **Jael - Scrum Master** 
+* **Andres - Product Owner**
 * **Amr**
 * **Jose Miguel**
 
