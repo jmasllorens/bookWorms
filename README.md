@@ -2,7 +2,7 @@
 
 Debemos diseñar y maquetar una tienda online.
 
-La tematica es libre. Buscar referencia en la web.
+La temática es libre. Buscar referencia en la web.
 
 
 
